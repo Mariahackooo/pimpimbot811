@@ -1,1 +1,0 @@
-{"nome":"Trevor","nick":"pimpim","sexo":"M - Masculino","numero":"994407273548","insta":"sem no momento","img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVG0rLOqMdRj65ug6eguzTFEZq_nT3eioPKw&usqp=CAU"}
